@@ -1,0 +1,49 @@
+body {
+	background: #AFD2C8;
+	color: #fff;
+}
+
+header {
+	background: #057958;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.contenedor-main {
+margin-bottom: 20px;	
+}
+
+
+main {
+	background: #21B54D;
+	color: #424242;
+	padding: 20px 0;
+}
+
+aside {
+	background: #24C7CA;
+	padding: 60px 0;
+	color: #0d47a1;
+}
+
+.widgets {
+	color: #424242;
+	margin-bottom: 20px;
+}
+
+.widgets > div {
+	background: #2196f3;
+	color: #fff;
+	padding: 20px;
+}
+
+/*
+footer {
+	padding: 20px 0;
+	background: #1e1e1e;
+}
+*/
+
+.filas{
+    margin-top: 20px;
+}

@@ -1,0 +1,24 @@
+
+h1{
+    color: white;
+
+}
+
+h2{
+     
+    color: darkorange;
+}
+
+h3{
+    color:fuchsia;
+}
+
+p{
+    color: white;
+}
+
+.fondo-producto{
+    background: #60ae97;
+    border-radius: 1em;
+    padding: 1em;
+}

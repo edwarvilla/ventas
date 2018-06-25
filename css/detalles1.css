@@ -1,0 +1,11 @@
+h2{
+    color: red;
+}
+h3{
+    color: yellow;
+}
+.fondo-producto{
+    background-color: #6f42c1;
+    border-radius: 1em;
+    padding: 4em;
+}
